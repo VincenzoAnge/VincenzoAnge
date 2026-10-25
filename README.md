@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Vincenzo Angellotti</h1>
 
-<!--
-**VincenzoAnge/VincenzoAnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Junior Business Intelligence Software Developer</strong><br>
+  Torino · ITS Academy ICT Piemonte
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:vincenzoangellotti.email@yahoo.com"><img src="https://img.shields.io/badge/Email-vincenzoangellotti.email%40yahoo.com-E4FF2E?style=flat-square&labelColor=0C0B0A" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Chi sono
+
+Porto i dati da un file grezzo fino a una dashboard: database, pipeline ETL, API e report.
+
+Dal 2017 al 2025 ho lavorato in contesti aziendali strutturati, fino a Responsabile Floor Robotico in Amazon. A fine 2025 ho deciso di fare dei dati e del software il mio lavoro e ho iniziato il corso di Business Intelligence Software Developer all'ITS Academy ICT Piemonte.
+
+Imparo costruendo, un progetto alla volta. Cerco un primo ruolo in Business Intelligence, Data Analysis o sviluppo software, in un team dove continuare a crescere.
+
+## Progetti
+
+| Progetto | Cosa fa | Stack |
+| --- | --- | --- |
+| **[Anime Merchandise Sales Dashboard](https://github.com/VincenzoAnge/anime-merch-dashboard)** | Report Power BI su un dataset sintetico di 2.000 ordini. Progetto personale. | Python, Power Query, DAX, Power BI |
+| **Arcadium** | Piattaforma web per videogiocatori con un catalogo Steam di circa 122.000 giochi. Progetto di gruppo dell'ITS (5 persone): io ho curato Docker Compose, PostgreSQL e lo script Python che carica i dati. Il repository è del team e non è pubblico. | Java, Spring Boot, PostgreSQL, Docker, Python |
+| **TaskFlow** | Piattaforma per gestire progetti e task in gruppo, con board Kanban e chat in tempo reale. Progetto d'esame. | Node.js, Express, MongoDB, Socket.IO |
+
+Le pagine dei progetti, con screenshot e difficoltà risolte, saranno sul mio portfolio.
+
+## Cosa uso
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-0C0B0A?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-0C0B0A?style=flat-square&logo=postgresql&logoColor=E4FF2E" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-0C0B0A?style=flat-square&logo=python&logoColor=E4FF2E" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-0C0B0A?style=flat-square&logo=docker&logoColor=E4FF2E" alt="Docker">
+  <img src="https://img.shields.io/badge/Java-0C0B0A?style=flat-square&logo=openjdk&logoColor=E4FF2E" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-0C0B0A?style=flat-square&logo=springboot&logoColor=E4FF2E" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-0C0B0A?style=flat-square&logo=javascript&logoColor=E4FF2E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-0C0B0A?style=flat-square&logo=nodedotjs&logoColor=E4FF2E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-0C0B0A?style=flat-square&logo=git&logoColor=E4FF2E" alt="Git">
+</p>
+
+## Sto imparando
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-0C0B0A?style=flat-square&logo=powerbi&logoColor=FF2E93" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-0C0B0A?style=flat-square&logoColor=FF2E93" alt="DAX">
+  <img src="https://img.shields.io/badge/MongoDB-0C0B0A?style=flat-square&logo=mongodb&logoColor=FF2E93" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Python%20per%20il%20Machine%20Learning-0C0B0A?style=flat-square&logo=python&logoColor=FF2E93" alt="Python per il Machine Learning">
+  <img src="https://img.shields.io/badge/Linux%20e%20cloud-0C0B0A?style=flat-square&logo=linux&logoColor=FF2E93" alt="Linux e cloud">
+</p>
+
+## Contatti
+
+- Email: [vincenzoangellotti.email@yahoo.com](mailto:vincenzoangellotti.email@yahoo.com)
+- Inglese B2, italiano madrelingua
