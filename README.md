@@ -22,7 +22,7 @@ Imparo costruendo, un progetto alla volta. Cerco un primo ruolo in Business Inte
 
 | Progetto | Cosa fa | Stack |
 | --- | --- | --- |
-| **Anime Merchandise Sales Dashboard** | Report Power BI su un dataset sintetico di 2.000 ordini. Progetto personale. | Python, Power Query, DAX, Power BI |
+| **[Anime Merchandise Sales Dashboard](https://github.com/VincenzoAnge/anime-merch-dashboard)** | Report Power BI su un dataset sintetico di 2.000 ordini. Progetto personale. | Python, Power Query, DAX, Power BI |
 | **Arcadium** | Piattaforma web per videogiocatori con un catalogo Steam di circa 122.000 giochi. Progetto di gruppo dell'ITS (5 persone): io ho curato Docker Compose, PostgreSQL e lo script Python che carica i dati. Il repository è del team e non è pubblico. | Java, Spring Boot, PostgreSQL, Docker, Python |
 | **TaskFlow** | Piattaforma per gestire progetti e task in gruppo, con board Kanban e chat in tempo reale. Progetto d'esame. | Node.js, Express, MongoDB, Socket.IO |
 | **LibroLocale AI** | Strumento di raccomandazione per librerie indipendenti, con un libraio virtuale. Progetto finale di gruppo del corso, in corso. | Python, Streamlit, scikit-learn, MongoDB |
