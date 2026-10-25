@@ -27,7 +27,7 @@ Imparo costruendo, un progetto alla volta. Cerco un primo ruolo in Business Inte
 | **[TaskFlow](https://github.com/VincenzoAnge/taskflow)** | Piattaforma per gestire progetti e task in gruppo, con board Kanban e chat in tempo reale. Progetto di studio dell'ITS (modulo Node.js). | Node.js, Express, MongoDB, Socket.IO |
 | **LibroLocale AI** | Strumento di raccomandazione per librerie indipendenti, con un libraio virtuale. Progetto finale di gruppo del corso, in corso. | Python, Streamlit, scikit-learn, MongoDB |
 
-Le pagine dei progetti, con screenshot e difficoltà risolte, sono sul mio [portfolio](https://vincenzo-angellotti.vercel.app/).
+Le pagine dei progetti, con screenshot e difficoltà risolte, sono sul mio [portfolio](https://portfolio-vincenzo-angellotti.vercel.app/).
 
 ## Cosa uso
 
@@ -57,6 +57,6 @@ Le pagine dei progetti, con screenshot e difficoltà risolte, sono sul mio [port
 
 ## Contatti
 
-- Portfolio: [vincenzo-angellotti.vercel.app](https://vincenzo-angellotti.vercel.app/)
+- Portfolio: [portfolio-vincenzo-angellotti.vercel.app](https://portfolio-vincenzo-angellotti.vercel.app/)
 - Email: [vincenzoangellottii@gmail.com](mailto:vincenzoangellottii@gmail.com)
 - Inglese B2, italiano madrelingua
