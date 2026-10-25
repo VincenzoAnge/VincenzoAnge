@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Vincenzo Angellotti, Junior Business Intelligence Software Developer">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2C2A26" stroke-width="1"/>
+    </pattern>
+    <pattern id="h" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="16" fill="#E4FF2E"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" fill="#0C0B0A"/>
+  <rect width="1200" height="260" fill="url(#g)"/>
+  <rect x="0" y="236" width="1200" height="24" fill="url(#h)" opacity="0.9"/>
+  <path d="M0 0H60L0 60Z" fill="#E4FF2E"/>
+  <path d="M1200 0H1140L1200 60Z" fill="#FF2E93"/>
+  <text x="60" y="96" font-family="Arial Narrow, Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" fill="#FF2E93">01 // PROFILO</text>
+  <text x="58" y="160" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="68" fill="#FF2E93" opacity="0.8">VINCENZO ANGELLOTTI</text>
+  <text x="60" y="158" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="68" fill="#F2F0E8">VINCENZO ANGELLOTTI</text>
+  <text x="60" y="204" font-family="Courier New, monospace" font-size="20" letter-spacing="2" fill="#E4FF2E">&gt; Junior Business Intelligence Software Developer</text>
+</svg>
