@@ -1,9 +1,8 @@
-<h1 align="center">Vincenzo Angellotti</h1>
-
 <p align="center">
-  <strong>Junior Business Intelligence Software Developer</strong><br>
-  Torino · ITS Academy ICT Piemonte
+  <img src="https://raw.githubusercontent.com/VincenzoAnge/VincenzoAnge/main/banner.svg" alt="Vincenzo Angellotti, Junior Business Intelligence Software Developer" width="100%">
 </p>
+
+<p align="center">Torino · ITS Academy ICT Piemonte</p>
 
 <p align="center">
   <a href="mailto:vincenzoangellotti.email@yahoo.com"><img src="https://img.shields.io/badge/Email-vincenzoangellotti.email%40yahoo.com-E4FF2E?style=flat-square&labelColor=0C0B0A" alt="Email"></a>
@@ -33,13 +32,12 @@ Le pagine dei progetti, con screenshot e difficoltà risolte, saranno sul mio po
 
 <p>
   <img src="https://img.shields.io/badge/SQL-0C0B0A?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/NoSQL-0C0B0A?style=flat-square" alt="NoSQL">
   <img src="https://img.shields.io/badge/PostgreSQL-0C0B0A?style=flat-square&logo=postgresql&logoColor=E4FF2E" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-0C0B0A?style=flat-square&logo=python&logoColor=E4FF2E" alt="Python">
   <img src="https://img.shields.io/badge/Docker-0C0B0A?style=flat-square&logo=docker&logoColor=E4FF2E" alt="Docker">
   <img src="https://img.shields.io/badge/Java-0C0B0A?style=flat-square&logo=openjdk&logoColor=E4FF2E" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-0C0B0A?style=flat-square&logo=springboot&logoColor=E4FF2E" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JavaScript-0C0B0A?style=flat-square&logo=javascript&logoColor=E4FF2E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-0C0B0A?style=flat-square&logo=nodedotjs&logoColor=E4FF2E" alt="Node.js">
   <img src="https://img.shields.io/badge/Git-0C0B0A?style=flat-square&logo=git&logoColor=E4FF2E" alt="Git">
 </p>
 
@@ -48,6 +46,8 @@ Le pagine dei progetti, con screenshot e difficoltà risolte, saranno sul mio po
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-0C0B0A?style=flat-square&logo=powerbi&logoColor=FF2E93" alt="Power BI">
   <img src="https://img.shields.io/badge/DAX-0C0B0A?style=flat-square&logoColor=FF2E93" alt="DAX">
+  <img src="https://img.shields.io/badge/Spring%20Boot-0C0B0A?style=flat-square&logo=springboot&logoColor=FF2E93" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-0C0B0A?style=flat-square&logo=nodedotjs&logoColor=FF2E93" alt="Node.js">
   <img src="https://img.shields.io/badge/MongoDB-0C0B0A?style=flat-square&logo=mongodb&logoColor=FF2E93" alt="MongoDB">
   <img src="https://img.shields.io/badge/Python%20per%20il%20Machine%20Learning-0C0B0A?style=flat-square&logo=python&logoColor=FF2E93" alt="Python per il Machine Learning">
   <img src="https://img.shields.io/badge/Linux%20e%20cloud-0C0B0A?style=flat-square&logo=linux&logoColor=FF2E93" alt="Linux e cloud">
