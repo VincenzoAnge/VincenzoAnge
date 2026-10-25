@@ -5,7 +5,7 @@
 <p align="center">Torino · ITS Academy ICT Piemonte</p>
 
 <p align="center">
-  <a href="mailto:vincenzoangellotti.email@yahoo.com"><img src="https://img.shields.io/badge/Email-vincenzoangellotti.email%40yahoo.com-E4FF2E?style=flat-square&labelColor=0C0B0A" alt="Email"></a>
+  <a href="mailto:vincenzoangellottii@gmail.com"><img src="https://img.shields.io/badge/Email-vincenzoangellottii%40gmail.com-E4FF2E?style=flat-square&labelColor=0C0B0A" alt="Email"></a>
 </p>
 
 ---
@@ -57,5 +57,5 @@ Le pagine dei progetti, con screenshot e difficoltà risolte, saranno sul mio po
 
 ## Contatti
 
-- Email: [vincenzoangellotti.email@yahoo.com](mailto:vincenzoangellotti.email@yahoo.com)
+- Email: [vincenzoangellottii@gmail.com](mailto:vincenzoangellottii@gmail.com)
 - Inglese B2, italiano madrelingua
